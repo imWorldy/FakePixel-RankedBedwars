@@ -1,0 +1,6 @@
+rank = 0
+elo = 0
+total_games = 0
+games_won = 0
+games_lost = 0
+current_streak = 0
